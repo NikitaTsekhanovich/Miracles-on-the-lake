@@ -2,6 +2,8 @@
 
 # Описание
 
+Для тестирования магазина. Если 10 раз нажать на лого в главном меню, то прибавится 200 монет.
+
 # Скриншоты
 ![Image Sequence_012_0000](https://github.com/user-attachments/assets/9d5fa2a5-b0ef-42b4-9833-f5302c7b4e4e)
 ![Image Sequence_007_0000](https://github.com/user-attachments/assets/a0be3f72-ed5c-4000-8316-becec30c3b2e)
